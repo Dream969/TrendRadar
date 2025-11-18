@@ -1,13 +1,3 @@
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-小米
-雷军
-
 微软
 Microsoft
 
@@ -20,6 +10,7 @@ google
 gemini
 deepmind
 
+AI
 ai
 !gai
 人工智能
@@ -32,3 +23,10 @@ ai
 安全
 oday
 1day
+漏洞
+补丁
+
+美股
+纳斯达克
+股市
+指数
