@@ -5,6 +5,8 @@ Microsoft
 NVIDIA
 黄仁勋
 
+马斯克
+
 谷歌
 google
 gemini
@@ -14,9 +16,6 @@ AI
 ai
 !gai
 人工智能
-
-芯片
-光刻机
 
 网络安全
 信息安全
